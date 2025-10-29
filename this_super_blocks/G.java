@@ -1,7 +1,7 @@
 public class G {
     {
         System.out.println("G's NSB");
-        G g1 = new G();//infinite recursion
+        //G g1 = new G();infinite recursion
     }
     static{
         System.out.println("G's SB");
