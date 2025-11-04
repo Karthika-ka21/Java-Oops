@@ -1,0 +1,3 @@
+ interface Amazon {
+    void login();
+}
