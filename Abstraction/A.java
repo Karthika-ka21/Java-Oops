@@ -1,3 +1,4 @@
+
 abstract class A{
     int x=5;
     static int a=20;

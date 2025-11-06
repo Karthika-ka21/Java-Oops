@@ -1,5 +1,6 @@
 class A{
     int i=5;
+    public String x;
     void m1(){
     System.out.println("m1 in class A ");}
     static{
