@@ -14,7 +14,7 @@ class B extends C{
         System.out.println("B's default constructor");
     }
     public static void main(String[] args){
-        B b = new B();
+         new B();
     }
 }
     

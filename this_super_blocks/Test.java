@@ -16,6 +16,6 @@ class J extends I{
 }
 class Test{
     public static void main(String args[]){
-        J obj = new J();
+         new J();
     }
 }

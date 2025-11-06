@@ -19,8 +19,9 @@ class A{
 
 class Test1{
     public static void main(String[] args){
-        A a1 = new A(5,10);
-        A a2 = new A(5);
-        A a3 = new A();
+         new A(5,10);
+         new A(5);
+         new A();
+        
     }
 }
