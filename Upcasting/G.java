@@ -18,6 +18,8 @@
            System.out.println(o1.equals(o2));//equals() in child class ie String class is implemented
         o2=o1;
         G g=new G();
+        String str=g.display("hello");
+        System.out.println(str);
         System.out.println(o1);
         System.out.println(o2);
         System.out.println(o1==o2);
